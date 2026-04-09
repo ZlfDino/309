@@ -6,5 +6,6 @@ int main(){
      \n a bila sam ti sudjena \n blago meni \n jos po sebi \n tvoje prste osjecam ");
   printf("Jelena rozga ludilo mozga");
   printf("Menjao sam zbog nje fazon pustio sam bradu");
+  printf("Dobro dosli drugovi na nasu malu maskaradu pozivnice imate najbolje je to u gradu")
   return 0;
 }
